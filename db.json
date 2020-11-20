@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {    
+      "formId": "1",
+      "line": "1",
+      "description": "Keynote addess",
+      "resposable": "tiMan",
+      "initialDate": "2020/11/01",
+      "assignedDate": "2020-11-16",
+      "finalDate": "",
+      "days": "15",
+      "stateTask": "1",
+      "stateType": "1"
+    },
+    {
+      "formId": "1",
+      "line": "2",
+      "description": "You Might Not Need NgRx",
+      "resposable": "tiJon",
+      "initialDate": "2020/11/01",
+      "assignedDate": "2020-11-15",
+      "finalDate": "",
+      "days": "14",
+      "stateTask": "2",
+      "stateType": "2"
+    },
+    { 
+      "formId": "1",
+      "line": "3",
+      "description": "Automating UI development",
+      "resposable": "tiAld",
+      "initialDate": "2020/11/01",
+      "assignedDate": "2020-11-20",
+      "finalDate": "",
+      "Days": "19",
+      "stateTask": "4",
+      "stateType": "4"
+    },
+    {
+      "formId": "1",
+      "line": "4",
+      "description": "Deep dive into Angular CLI 7",
+      "resposable": "tiCel",
+      "initialDate": "2020/11/01",
+      "assignedDate": "2020-11-20",
+      "finalDate": "",
+      "days": "19",
+      "stateTask": "6",
+      "stateType": "3"
+    },
+    {    
+      "formId": "1",
+      "line": "1",
+      "description": "Testeo de pruebas",
+      "resposable": "tiJon",
+      "initialDate": "2020/11/01",
+      "assignedDate": "2020-11-16",
+      "finalDate": "",
+      "days": "15",
+      "stateTask": "4",
+      "stateType": "3"
+    }
+  ]
+}
